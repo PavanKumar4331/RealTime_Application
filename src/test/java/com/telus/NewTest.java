@@ -19,8 +19,8 @@ public class NewTest {
 		driver.manage().window().maximize();
 
 		// Naming convention of each variables
-
-		String firstNameValue = "Pavan Kumar";
+		//name changed by pavan 2023-02-28
+		String firstNameValue = "Pavan Kumar P";
 		String lastNameValue = "Reddy";
 		String streetAddressValue = "Banaganapalli, Kurnool, Andhrapradesh";
 		String aptNoValue = "4-56/2";
