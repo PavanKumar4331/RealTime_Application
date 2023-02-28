@@ -20,7 +20,7 @@ public class NewTest {
 
 		// Naming convention of each variables
 		//name changed by pavan 2023-02-28
-		String firstNameValue = "prakash";
+		String firstNameValue = "pavan ";
 		String lastNameValue = "Reddy";
 		String streetAddressValue = "Banaganapalli, Kurnool, Andhrapradesh";
 		String aptNoValue = "4-56/2";
