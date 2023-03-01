@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-28T13:44:44 IST" name="Automation Suite" finished-at="2023-02-28T13:44:59 IST" duration-ms="14748">
+  <suite started-at="2023-03-01T10:46:06 IST" name="Automation Suite" finished-at="2023-03-01T10:46:21 IST" duration-ms="15610">
     <groups>
     </groups>
-    <test started-at="2023-02-28T13:44:44 IST" name="Smoke Test" finished-at="2023-02-28T13:44:59 IST" duration-ms="14748">
+    <test started-at="2023-03-01T10:46:06 IST" name="Smoke Test" finished-at="2023-03-01T10:46:21 IST" duration-ms="15610">
       <class name="com.telus.NewTest">
-        <test-method signature="registerDemo()[pri:0, instance:com.telus.NewTest@4e7912d8]" started-at="2023-02-28T13:44:44 IST" name="registerDemo" finished-at="2023-02-28T13:44:59 IST" duration-ms="14654" status="PASS">
+        <test-method signature="registerDemo()[pri:0, instance:com.telus.NewTest@4e7912d8]" started-at="2023-03-01T10:46:06 IST" name="registerDemo" finished-at="2023-03-01T10:46:21 IST" duration-ms="15538" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerDemo -->
